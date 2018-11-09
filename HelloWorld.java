@@ -1,5 +1,6 @@
 /* HelloWorld.java
  */
+import com.amazonaws.services;
 
 public class HelloWorld
 {
